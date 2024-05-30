@@ -41,3 +41,19 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+
+# biuld folders
+build/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/cpp/
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea
